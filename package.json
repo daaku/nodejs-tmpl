@@ -1,0 +1,17 @@
+{
+  "name": "tmpl",
+  "description": "JavaScript micro templates.",
+  "version": "1.0.0",
+  "homepage": "https://github.com/nshah/nodejs-tmpl",
+  "author": "Naitik Shah <n@daaku.org>",
+  "main": "lib/tmpl",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nshah/nodejs-tmpl"
+  },
+  "scripts": { "test": "./node_modules/.bin/expresso -c" },
+  "devDependencies": {
+    "expresso": ">= 0.8.1"
+  },
+  "engines": { "node": ">= 0.4.1" }
+}
