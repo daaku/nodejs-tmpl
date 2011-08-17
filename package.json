@@ -1,7 +1,7 @@
 {
   "name": "tmpl",
   "description": "JavaScript micro templates.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "homepage": "https://github.com/nshah/nodejs-tmpl",
   "author": "Naitik Shah <n@daaku.org>",
   "main": "lib/tmpl",
