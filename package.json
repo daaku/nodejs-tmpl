@@ -7,7 +7,7 @@
   "main": "lib/tmpl",
   "repository": {
     "type": "git",
-    "url": "https://github.com/nshah/nodejs-tmpl"
+    "url": "https://github.com/daaku/nodejs-tmpl"
   },
   "scripts": { "test": "NODE_PATH=./lib mocha --ui exports" },
   "devDependencies": {
