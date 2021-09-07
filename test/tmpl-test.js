@@ -1,4 +1,4 @@
-var tmpl = require('tmpl')
+var tmpl = require('../lib/tmpl')
   , assert = require('assert')
 
 exports['basic name substitution'] = function() {
